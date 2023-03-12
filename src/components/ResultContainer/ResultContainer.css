@@ -1,0 +1,6 @@
+.result-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+}
